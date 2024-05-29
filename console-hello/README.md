@@ -1,4 +1,4 @@
-##Saying Hello
+## Saying Hello
 
 This program will propmy the user for a name and will return a hello to the console referencing this name.
 
